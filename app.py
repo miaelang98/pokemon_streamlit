@@ -29,7 +29,7 @@ st.markdown("""
     # """, unsafe_allow_html=True
 )
 
-st.title("streamlit 포켓몬 도감")
+st.title("김정보샘의 포켓몬 도감")
 st.markdown("**포켓몬**을 하나씩 추가해서 도감을 채워보세요!")
 type_emoji_dict = {
     "노말": "⚪",
